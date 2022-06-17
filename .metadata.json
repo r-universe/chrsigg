@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nscancor",
+    "oncran": true
+  },
+  {
+    "package": "nsprcomp",
+    "oncran": true
+  }
+]
