@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "nscancor"]
 	path = nscancor
 	url = https://github.com/chrsigg/nscancor
-	shallow = true
-	registered = true
 [submodule "nsprcomp"]
 	path = nsprcomp
 	url = https://github.com/chrsigg/nsprcomp
-	shallow = true
-	registered = true
